@@ -1,2 +1,2 @@
-# treat Mathematica notebooks as binary files
-*.nb binary
+# treat PDF documents as binary files
+*.pdf binary
